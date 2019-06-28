@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thoughtscript/x_team_build_tool_round_up.git"
+    "url": "git+https://github.com/ghoshArnab/buildPlayground.git"
   },
   "engines": {
     "node": ">10.0"
