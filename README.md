@@ -4,6 +4,8 @@ Build compare playground
 
 Ideated from https://x-team.com/blog/rollup-webpack-parcel-comparison/
 
+Engine - node 10.16.0 LTS
+
 A simple React app that's got simple implementations of all the basics:
 
     "react": "=16.8.6",
