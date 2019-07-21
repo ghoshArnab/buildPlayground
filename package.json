@@ -26,7 +26,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ghoshArnab/buildPlayground",
   "devDependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.5.5",
     "@babel/plugin-external-helpers": "^7.2.0",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/plugin-proposal-decorators": "^7.4.4",
@@ -44,7 +44,7 @@
     "@babel/plugin-proposal-throw-expressions": "^7.2.0",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/plugin-syntax-import-meta": "^7.2.0",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.0.6",
@@ -53,7 +53,7 @@
     "rollup": "=1.16.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-uglify": "=6.0.2",
-    "webpack": "=4.35.0",
+    "webpack": "^4.35.0",
     "webpack-cli": "=3.3.5"
   },
   "dependencies": {
